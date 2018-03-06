@@ -1,6 +1,6 @@
 # fedorovm.github.io
 Привет! 
 <br>
-Вот вам мой [github](https://github.com/mfedorov6991/fedorovm.github.io)
+Вот вам мой [github](https://github.com/fedorovm.github.io)
 <br>
-Вот описание первой лабораторной работы [Тык](https://github.com/mfedorov6991/fedorovm.github.io/wiki)
+Вот описание первой лабораторной работы [Тык](https://github.com/fedorovm.github.io/wiki) 
